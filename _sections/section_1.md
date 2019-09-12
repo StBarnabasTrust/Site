@@ -7,7 +7,7 @@ subtitle:
 
 ##### You can ask the residents at the Home of St Barnabas, and they’ll tell you… it’s not a home, it’s their home.
 
-That’s because since they opened in 1956, the Home of St Barnabas staff strive to make their place feel like a home for their residents. Not only is the Home of St Barnabas a gracious character family home with stunning gardens we are located close to shops, cafés and just a short walk to the beach.
+That’s because since they opened in 1956, the Home of St Barnabas staff strive to make their place feel like a home for their residents. Not only is the Home of St Barnabas a gracious character family home with stunning gardens, we are located close to shops, cafés and just a short walk to the beach.
 
 As a 41 bed rest home you will find a warm and welcoming environment where people can enjoy individual and appropriate care as they require.
 
