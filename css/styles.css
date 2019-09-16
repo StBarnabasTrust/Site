@@ -398,6 +398,7 @@ a:hover {
   position: relative;
   z-index: 100;
   -webkit-backface-visibility: hidden;
+	height:200px;
 }
 
 /* end fix */
