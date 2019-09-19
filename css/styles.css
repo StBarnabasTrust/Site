@@ -294,15 +294,15 @@ a:hover {
 }
 
 .card-left{
-  background-color: #A25F86;
+  background-color: #A25F86!important;
 }
 
 .card-middle{
-  background-color: ##D7A8C7;
+  background-color: ##D7A8C7!important;
 }
 
 .card-right{
-  background-color: #3054C6;
+  background-color: #3054C6!important;
 }
 
 
