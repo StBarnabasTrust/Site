@@ -442,7 +442,7 @@ a:hover {
 
 .image-box {
   height: 400px;
-  background: linear-gradient(0deg,rgba(37, 78, 199, 0.7), rgba(37, 78, 199, 0.7)), url(../img/1.jpeg);
+  background: linear-gradient(0deg,rgba(162, 95, 134, 0.5),rgba(215,168,199, 0.5)), url(../img/1.jpeg);
   background-position: center;
   background-size: cover;
   display: table-cell;
