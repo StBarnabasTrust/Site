@@ -162,8 +162,8 @@ background-color: #A25F86;
         {% endfor %}
       </div>
        <style>
-       @media only screen and (max-width: 600px) {
-      <div style="margin:auto;width:1200px!important;display:flex;justify-content:space-between;position:relative;right:10px;">
+      
+      <div class="hide1" style="margin:auto;width:1200px!important;display:flex;justify-content:space-between;position:relative;right:10px;">
         
         <div style="height:500px;width:33%;overflow: hidden;height: 500px;width: 33%;display: flex;justify-content: center;overflow: hidden;
 ">
@@ -180,8 +180,11 @@ background-color: #A25F86;
        
       
   </div>
-  }
+  <style>
+   @media only screen and (max-width: 600px) {
+     .hide1{display:none;}
   </style>
+    
 </section>
 
 <section>
